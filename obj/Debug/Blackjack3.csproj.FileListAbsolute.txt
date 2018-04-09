@@ -1,0 +1,7 @@
+C:\Users\test\Documents\KTA17-e-master\Blackjack3\bin\Debug\Blackjack3.exe.config
+C:\Users\test\Documents\KTA17-e-master\Blackjack3\bin\Debug\Blackjack3.exe
+C:\Users\test\Documents\KTA17-e-master\Blackjack3\bin\Debug\Blackjack3.pdb
+C:\Users\test\Documents\KTA17-e-master\Blackjack3\obj\Debug\Blackjack3.csproj.CoreCompileInputs.cache
+C:\Users\test\Documents\KTA17-e-master\Blackjack3\obj\Debug\Blackjack3.exe
+C:\Users\test\Documents\KTA17-e-master\Blackjack3\obj\Debug\Blackjack3.pdb
+C:\Users\test\Documents\KTA17-e-master\Blackjack3\obj\Debug\Blackjack3.csprojResolveAssemblyReference.cache
